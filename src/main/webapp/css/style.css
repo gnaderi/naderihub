@@ -776,7 +776,9 @@ h1 {
     color: #fff;
     margin: 0;
 }
-
+.develop div {
+    display: block;
+}
 /*===========================
 customers 
 ============================ */
