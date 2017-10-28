@@ -706,7 +706,7 @@ ul.social_icons li a i {
   services
 ============================ */
 /*Check services.css*/
-develop * {
+.develop * {
     font-family: inherit!important;
     line-height: normal;
 }
